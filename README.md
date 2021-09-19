@@ -20,7 +20,7 @@
         - [x] Assemble
         - [x] Install plumbing/electrical
         - [x] Build stairs
-        - [] Build lid
+        - [ ] Build lid
         
 - ⚡ Fun fact: I generate my own electricity (for 8-9 months of the year)
 
