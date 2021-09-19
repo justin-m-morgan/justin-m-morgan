@@ -13,13 +13,22 @@
     - Land my first "true" software developer job
     - Publish a blog post once a week
     - Finish building my cedar hot-tub
+        - [x] Mill own lumber
+        - [x] Fabricate floorboards
+        - [x] Fabricate vertical staves
+        - [x] Weld bands
+        - [x] Assemble
+        - [x] Install plumbing/electrical
+        - [x] Build stairs
+        - [] Build lid
+        
 - ⚡ Fun fact: I generate my own electricity (for 8-9 months of the year)
 
 ### Connect with me:
 
 <!-- [<img align="left" alt="justinmorgan.catsonfilm.ca" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="_catsonfilm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="justin-m-morgan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="_catsonfilm | Twitter" width="22px" src="https://img.icons8.com/2266EE/twitter" />][twitter]
+[<img align="left" alt="justin-m-morgan | LinkedIn" width="22px" src="https://img.icons8.com/2266EE/linkedin" />][linkedin]
 
 
 <br />
@@ -36,9 +45,7 @@
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
@@ -60,7 +67,7 @@
 src="https://github-readme-stats.vercel.app/api?username=justin-m-morgan&show_icons=true&hide_border=true&count_private=true&hide=stars"
 />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-m-morgan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-m-morgan&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://justinmorgan.catsonfilm.ca
