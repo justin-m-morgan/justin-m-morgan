@@ -9,9 +9,14 @@
     - Javascript/Typescript
     - Elixir/Phoenix
     - SVG Animations
-- 🥅 2021 Goals: 
-    - Land my first "true" software developer job
-    - Publish a blog post once a month
+- 🍾 2022 Accomplishments: 
+    - Secure my first programming job as an Elixir engineer
+    - Improve my public presentation skills
+    - Learn the fundamentals of CQRS
+    - Didn't bring down production once
+- 🥅 2023 Goals: 
+    - Actually start that side-project I keep talking about (and have all mapped out in my mind 😆)
+    - Build a regular habit of technical writing
     - Finish building my cedar hot-tub  
 - ⚡ Fun fact: I generate my own electricity (for 8-9 months of the year)
 
