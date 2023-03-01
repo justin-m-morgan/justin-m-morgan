@@ -36,7 +36,7 @@
 <img style="margin-right: 4px;" align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img style="margin-right: 4px;" align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img style="margin-right: 4px;" style="margin-right: 8px;" align="left" alt="TypeScript" height="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img style="margin-right: 4px;" style="margin-right: 8px;" align="left" alt="TypeScript" height="26px"  src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
+<img style="margin-right: 4px;" style="margin-right: 8px;" align="left" alt="Elixir" height="26px"  src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
 <img style="margin-right: 4px;" align="left" alt="SQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <br /><br />
@@ -44,16 +44,12 @@
 ### Libraries & Tools
 
 <img style="margin-right: 4px;" align="left" alt="React" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img style="margin-right: 4px;" align="left" alt="Gatsby" height="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img style="margin-right: 4px;" src="https://nestjs.com/img/logo_text.svg" height="26px" alt="Nest Logo" />
 <img style="margin-right: 4px;" align="left" alt="GraphQL" height="26px" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img style="margin-right: 4px;" align="left" alt="Node.js" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img style="margin-right: 4px;" align="left" alt="Jest" height="26px" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 <img style="margin-right: 4px;" align="left" alt="Git" height="26px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img style="margin-right: 4px;" align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img style="margin-right: 4px;" align="left" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img style="margin-right: 4px;" align="left" alt="Terminal" height="26px" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-<img style="margin-right: 4px;" align="left" alt="Terminal" height="26px" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+
 
 <br />
 <br />
