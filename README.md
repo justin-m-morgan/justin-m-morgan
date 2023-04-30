@@ -44,7 +44,6 @@
 ### Libraries & Tools
 
 <img style="margin-right: 4px;" align="left" alt="React" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img style="margin-right: 4px;" align="left" alt="GraphQL" height="26px" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img style="margin-right: 4px;" align="left" alt="Node.js" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img style="margin-right: 4px;" align="left" alt="Jest" height="26px" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 <img style="margin-right: 4px;" align="left" alt="Git" height="26px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
