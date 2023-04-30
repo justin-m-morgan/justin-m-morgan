@@ -17,7 +17,7 @@
 - 🥅 2023 Goals: 
     - Actually start that side-project I keep talking about (and have all mapped out in my mind 😆)
     - Build a regular habit of technical writing
-    - Finish building my cedar hot-tub  
+    - Improve my skill-set/knowledge of DevOps
 - ⚡ Fun fact: I generate my own electricity (for 8-9 months of the year)
 
 ### Connect with me:
