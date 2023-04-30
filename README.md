@@ -5,7 +5,7 @@
 
 ## Passionate Problem Solver
 
-- 🌱 I’m currently learnin
+- 🌱 I’m currently learning
     - SVG Animations
     - CQRS/Event-Sourcing
     - DevOps
@@ -13,7 +13,7 @@
 - 🍾 2022 Accomplishments: 
     - Secure my first programming job as an Elixir engineer
     - Improve my public presentation skills
-    - Learn the fundamentals of CQRS
+    - Learn the fundamentals of CQRS and Event Sourcing
     - Didn't bring down production once
 - 🥅 2023 Goals: 
     - Actually start that side-project I keep talking about (and have all mapped out in my mind 😆)
