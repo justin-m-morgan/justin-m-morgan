@@ -10,6 +10,8 @@
     - CQRS/Event-Sourcing
     - DevOps
     - Containers
+    - Microservices
+    - Message Queues
 - 🍾 2022 Accomplishments: 
     - Secure my first programming job as an Elixir engineer
     - Improve my public presentation skills
