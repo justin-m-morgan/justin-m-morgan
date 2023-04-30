@@ -5,10 +5,11 @@
 
 ## Passionate Problem Solver
 
-- 🌱 I’m currently learning
-    - Javascript/Typescript
-    - Elixir/Phoenix
+- 🌱 I’m currently learnin
     - SVG Animations
+    - CQRS/Event-Sourcing
+    - DevOps
+    - Containers
 - 🍾 2022 Accomplishments: 
     - Secure my first programming job as an Elixir engineer
     - Improve my public presentation skills
@@ -17,7 +18,6 @@
 - 🥅 2023 Goals: 
     - Actually start that side-project I keep talking about (and have all mapped out in my mind 😆)
     - Build a regular habit of technical writing
-    - Improve my skill-set/knowledge of DevOps
 - ⚡ Fun fact: I generate my own electricity (for 8-9 months of the year)
 
 ### Connect with me:
